@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node_modules/.bin/wdio wdio.conf.js"
+  },
+  "devDependencies": {
+    "@wdio/cli": "8.8.4",
+    "@wdio/local-runner": "8.8.4",
+    "@wdio/jasmine-framework": "8.8.4",
+    "@wdio/spec-reporter": "8.8.4",
+    "webdriverio": "8.8.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
